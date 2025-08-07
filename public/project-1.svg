@@ -1,0 +1,9 @@
+<svg width="400" height="250" viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="250" fill="#F8F9FA"/>
+  <rect x="50" y="50" width="300" height="150" rx="10" fill="#4169E1" opacity="0.1"/>
+  <rect x="70" y="70" width="60" height="40" rx="5" fill="#4169E1"/>
+  <rect x="150" y="70" width="180" height="8" rx="4" fill="#E9ECEF"/>
+  <rect x="150" y="85" width="120" height="8" rx="4" fill="#E9ECEF"/>
+  <rect x="70" y="130" width="260" height="50" rx="5" fill="#F8F9FA" stroke="#4169E1" stroke-width="2"/>
+  <text x="200" y="215" text-anchor="middle" fill="#4169E1" font-family="system-ui" font-size="14" font-weight="600">Web Application</text>
+</svg> 
